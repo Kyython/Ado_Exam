@@ -1,0 +1,13 @@
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\ExamWork.DataAcces.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\ExamWork.DataAcces.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\Dapper.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\dbup-core.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\dbup-sqlserver.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\ExamWork.Models.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\ExamWork.Models.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\bin\Debug\Dapper.xml
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\obj\Debug\ExamWork.DataAcces.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\obj\Debug\ExamWork.DataAcces.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\obj\Debug\ExamWork.DataAcces.csproj.CopyComplete
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\obj\Debug\ExamWork.DataAcces.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.DataAcces\obj\Debug\ExamWork.DataAcces.pdb

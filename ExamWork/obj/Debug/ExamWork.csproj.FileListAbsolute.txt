@@ -1,0 +1,16 @@
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.exe.config
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.exe
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.DataAcces.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.Models.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\dbup-core.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\Dapper.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\dbup-sqlserver.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.DataAcces.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\ExamWork.Models.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\bin\Debug\Dapper.xml
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.csproj.CopyComplete
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.exe
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork\obj\Debug\ExamWork.pdb

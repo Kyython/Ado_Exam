@@ -1,0 +1,6 @@
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\bin\Debug\ExamWork.Models.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\bin\Debug\ExamWork.Models.pdb
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\obj\Debug\ExamWork.Models.csprojAssemblyReference.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\obj\Debug\ExamWork.Models.csproj.CoreCompileInputs.cache
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\obj\Debug\ExamWork.Models.dll
+C:\Users\ерика.CORP.000\source\repos\ExamWork\ExamWork.Models\obj\Debug\ExamWork.Models.pdb
